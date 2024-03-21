@@ -28,10 +28,11 @@
 Виджет, который позволяет элитным менторам отображать список отзывов из канала "IT Менторы" в своём прайсе в Notion (с помощью embed) или Teletype (с помощью iframe).
 
 Как подключить бота:
-1. Получаем свой telegram id любым удобным способом (например можно использовать `/id` в это чате)
-2. Вставляем свой telegram id в ссылку ниже
-3. Указываем одну из понравившихся тем (доступные: notion-light, notion-dark, teletype-light, teletype-dark
-4. В случае с Notion достаточно будет вставить ссылку `https://www.it-mentors.ru/reviews?id=YOUR_ID_HERE&theme=YOUR_THEME_HERE` с указанной темой и telegram id ментора. В случае с Teletype надо будет зайти на [iframe generator](https://www.iframe-generator.com/), настроить там iframe, скопировать код iframe и вставить его в Teletype.
+1. Получаем свой telegram id любым удобным способом (например можно использовать `/id` в чате элитных менторов)
+![image](https://github.com/M0rtyMerr/-/assets/47274926/06393adc-55d8-4d8b-b247-12e0b122507b)
+3. Вставляем свой telegram id в ссылку ниже
+4. Указываем одну из понравившихся тем (доступные: notion-light, notion-dark, teletype-light, teletype-dark
+5. В случае с Notion достаточно будет вставить ссылку `https://www.it-mentors.ru/reviews?id=YOUR_ID_HERE&theme=YOUR_THEME_HERE` с указанной темой и telegram id ментора. В случае с Teletype надо будет зайти на [iframe generator](https://www.iframe-generator.com/), настроить там iframe, скопировать код iframe и вставить его в Teletype.
 
 Выглядит это примерно так:
 
